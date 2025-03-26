@@ -1,0 +1,34 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+.header {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Paragraph styling */
+.paragraph {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+    border-left: 4px solid #00e6b4;
+}
+
+/* Image styling */
+.image {
+    display: block;
+    width: 300px;
+    margin: 20px auto;
+    border: 5px solid #00e632;
+    border-radius: 10px;
+}
